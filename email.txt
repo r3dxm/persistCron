@@ -1,0 +1,4 @@
+To: send@to.com
+Subject: Host is down!
+
+Check VPN connection. If this is a false positive report to
